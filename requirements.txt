@@ -1,0 +1,21 @@
+# Core
+pydantic>=2.6
+pydantic-settings>=2.2
+python-dotenv>=1.0
+
+# Market data + indicators
+pandas>=2.2
+numpy>=1.26
+pandas-ta>=0.3.14b
+
+# Broker + market data API
+alpaca-py>=0.21
+
+# LLM (used from phase 2)
+anthropic>=0.40
+
+# Scheduling
+apscheduler>=3.10
+
+# Dev / tests
+pytest>=8.0
